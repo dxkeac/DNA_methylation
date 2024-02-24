@@ -1,2 +1,1 @@
-# DNA-methylation
-perl code
+# DNA methylation
